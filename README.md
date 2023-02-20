@@ -1,4 +1,4 @@
-Tic tac toe 
+### Tic Tac Toe 
 
 ## Description
 Kompakte Spielanleitung für Tic-Tac-Toe: So geht´s
